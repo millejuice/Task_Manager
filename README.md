@@ -15,7 +15,6 @@
 
 
 
-https://file.notion.so/f/s/2dcac97b-14a8-4ccc-bd65-fc6be79fcf84/UI.pdf?id=f1687df4-e60e-49f5-87b1-3bdc75354bcc&table=block&spaceId=7e282e1f-b3ce-4d91-99fa-3871a8e9730b&expirationTimestamp=1684624284612&signature=Ik66rY5Zoyngkxl0rk9KG-bxihb2AttWUcIEVH93wo8&downloadName=UI.pdf
 
 ## Problem
 
