@@ -42,7 +42,7 @@
 
 ## 시연영상
 
-
+### [프로덕트 정보] (https://github.com/millejuice/Task_Manager/wiki)
 
 
 ## Technical Slide
